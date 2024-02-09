@@ -2,7 +2,7 @@
 <h3 align="center">
 I am a computer engineering student</h3>
 
-https://camo.githubusercontent.com/d2ce764a32f2c2ee3235907e571521d5bb4d3babf47a90127807ef6bc2571262/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966
+
 
 # 💫 About Me:
 🌱 ı'm currently learning Native Android Development& .NET<br>📫How to reach me melekddmr@outlook.com 

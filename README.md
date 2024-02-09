@@ -5,7 +5,7 @@ I am a computer engineering student</h3>
 
 
 # 💫 About Me:
-🌱 ı'm currently learning Native Android Development& .NET<br>📫How to reach me melekddmr@outlook.com 
+🌱 ı'm currently learning Native Android Development & .NET<br>📫How to reach me melekddmr@outlook.com 
 
 
 

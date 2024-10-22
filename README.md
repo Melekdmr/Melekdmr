@@ -3,6 +3,10 @@
 I am a computer engineer</h3>
 
 
+![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966](https://github.com/user-attachments/assets/e2db04f9-ecc4-4297-b889-d58d2c7628bc)
+
+
+
 
 # 💫 About Me:
 🌱 I'm currently learning .NET|Backend Development <br>📫How to reach me melekddmr@outlook.com 

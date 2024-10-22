@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm Melek Demir</h1>
 <h3 align="center">
-I am a computer engineer</h3>
+I am a computer engineer👩‍💻</h3>
 
 
 

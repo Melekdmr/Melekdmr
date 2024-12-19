@@ -5,7 +5,7 @@ I am a computer engineer👩‍💻</h3>
 
 
 # 💫 About Me:
-🌱 I'm currently learning .NET|Backend Development <br>
+🌱 I'm currently learning .NET || Backend Development <br>
 📫How to reach me melekddmr@outlook.com 
 
 

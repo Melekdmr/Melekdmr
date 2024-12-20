@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm Melek Demir</h1>
 <h3 align="center">
-🛠️A problem-solver at heart and a Computer Engineer who turns ideas into impactful solutions 👩🏻‍💻 </h3>
+🛠️A visionary Computer Engineer transforming ideas into innovative solutions 👩🏻‍💻 </h3>
 
 
 

@@ -24,9 +24,9 @@ I am a computer engineer👩‍💻</h3>
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div align="center">
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
  # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Melekdmr&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>

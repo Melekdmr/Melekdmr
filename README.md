@@ -1,12 +1,13 @@
 <h1 align="center">Hi👋, I'm Melek Demir</h1>
 <h3 align="center">
-I am a computer engineer👩‍💻</h3>
+🛠️A problem-solver at heart and a Computer Engineer who turns ideas into impactful solutions 👩🏻‍💻 </h3>
 
 
 
 # 💫 About Me:
-🌱 I'm currently learning .NET || Backend Development <br>
-📫How to reach me melekddmr@outlook.com 
+🌱 I'm currently exploring the world of .NET || Backend Development to build scalable and efficient applications. <br>
+
+📫How to reach me melekddmr@outlook.com                   
 
 
 

@@ -7,7 +7,7 @@
 # 💫 About Me:
 🌱 I'm currently exploring the world of .NET || Backend Development to build scalable and efficient applications. <br>
 
-📫How to reach me melekddmr@outlook.co                   
+📫How to reach me melekddmr@outlook.com                   
 
 
 

@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Melek Demir</h1>
 <h3 align="center">
- A Computer Engineer leveraging the power of code to bring visions to life 👩🏻‍💻 </h3>
+Computer Engineer | Backend Developer in Training 👩🏻‍💻 </h3>
 
 
 
 # 💫 About Me:
-🌱 I'm currently exploring the world of .NET || Backend Development to build scalable and efficient applications. <br>
+🌱Currently deepening my expertise in .NET and Backend Development to build robust systems.  <br>
 
 📫How to reach me melekddmr@outlook.com                   
 

@@ -5,7 +5,7 @@ Computer Engineer | Backend Developer in Training 👩🏻‍💻 </h3>
 
 
 # 💫 About Me:
-🌱 Currently deepening my expertise in .NET, Backend Development, and Spring Boot to build robust and scalable systems.  <br>
+🌱 Currently deepening my expertise in .NET, Backend Development to build robust and scalable systems.  <br>
 
 📫How to reach me melekddmr@outlook.com                   
 

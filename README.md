@@ -3,8 +3,8 @@
 
 ---
 
-### 💡 About Me
-Currently deepening my expertise in .NET Backend Development to build robust and scalable systems, while also learning Spring Boot to broaden my backend development skills.
+# 💫 About Me: 
+🌱 Currently deepening my expertise in .NET Backend Development to build robust and scalable systems, while also learning Spring Boot to broaden my backend development skills.
 
 > “Clean code is not just written, it's designed.”
 
@@ -19,7 +19,7 @@ Currently deepening my expertise in .NET Backend Development to build robust and
 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/melekdmr) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@melekdmrr)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20383122)

@@ -1,11 +1,14 @@
-<h1 align="center">Hi, I'm Melek Demir</h1>
-<h3 align="center">
-Computer Engineer | Backend Developer in Training 👩🏻‍💻 </h3>
+<h1 align="center">👋 Hi there, I'm Melek Demir</h1>
+<h3 align="center">Computer Engineer | Backend Developer 🚀</h3>
+
+---
+
+### 💡 About Me
+Currently deepening my expertise in .NET Backend Development to build robust and scalable systems, while also learning Spring Boot to broaden my backend development skills.
+
+> “Clean code is not just written, it's designed.”
 
 
-
-# 💫 About Me:
-🌱 Currently deepening my expertise in .NET Backend Development to build robust and scalable systems.  <br>
 
 📫How to reach me melekddmr@outlook.com                   
 

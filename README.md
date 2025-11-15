@@ -4,7 +4,7 @@
 ---
 
 # 💫 About Me: 
-🌱 Currently deepening my expertise in .NET Backend Development to build robust and scalable systems, while also learning Spring Boot to broaden my backend development skills.
+🌱Focused on mastering .NET Backend Development to architect reliable, high-performance systems that scale with real-world needs.
 
 > “Clean code is not just written, it's designed.”
 

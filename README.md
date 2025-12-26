@@ -1,9 +1,9 @@
-<h1 align="center">👋 Hi there, I'm Melek Demir</h1>
+<h1 align="center"> Hi there, I'm Melek Demir</h1>
 <h3 align="center">Computer Engineer | Backend Developer 🚀</h3>
 
 ---
 
-# 💫 About Me: 
+#  About Me: 
 🌱Focused on mastering .NET Backend Development to architect reliable, high-performance systems that scale with real-world needs.
 
 > “Clean code is not just written, it's designed.”

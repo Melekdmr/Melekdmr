@@ -1,5 +1,6 @@
-<h1 align="center"> Hi there, I'm Melek Demir</h1>
-<h3 align="center">Computer Engineer | Backend Developer 👩🏻‍💻</h3>
+<h1 align="center">Melek Demir</h1>
+<h3 align="center">Computer Engineer | .NET Backend Developer</h3>
+
 
 ---
 

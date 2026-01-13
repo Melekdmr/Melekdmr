@@ -6,10 +6,10 @@
 
 # 🚀 About Me
 
-Backend developer focused on building scalable and maintainable systems with .NET technologies.  
+Backend developer working with .NET technologies to build clean, maintainable backend services.  
 Committed to writing clean, testable code that stands the test of time.
 
-🎯 **Current Focus:** Currently focused on building .NET Core services, exploring microservices architecture, and containerizing applications with Docker.
+🎯 **Current Focus:** Building .NET Core services, exploring microservices architecture, and containerizing applications with Docker.
 
 > “Clean code is not just written, it’s designed.”
 

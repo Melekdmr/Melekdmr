@@ -1,19 +1,18 @@
 <h1 align="center"> Hi there, I'm Melek Demir</h1>
-<h3 align="center">Computer Engineer | Backend Developer 🚀</h3>
+<h3 align="center">Computer Engineer | Backend Developer 👩🏻‍💻</h3>
 
 ---
 
-#  About Me: 
-🌱Backend developer focused on building scalable and maintainable systems with .NET technologies.  
-Committed to clean, testable code built to last.
+## 🚀 About Me
 
-🎯 **Current Focus:** Learning and building backend services with .NET Core, exploring microservices architecture, and containerizing applications using Docker.
+Backend developer focused on building scalable and maintainable systems with .NET technologies.  
+Committed to writing clean, testable code that stands the test of time.
 
-> “Clean code is not just written, it's designed.”
+🎯 **Current Focus:** Learning and building .NET Core services, microservices architecture, and Docker-based containerization.
 
+> “Clean code is not just written, it’s designed.”
 
-
-📧How to reach me melekddmr@outlook.com                   
+📧 **Contact:** melekddmr@outlook.com
 
 
 
@@ -22,7 +21,7 @@ Committed to clean, testable code built to last.
 
 
 
-# 🌐 Socials:
+# 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/melekdmr) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@melekdmrr)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20383122)

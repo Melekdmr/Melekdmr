@@ -1,5 +1,5 @@
-<h1 align="center">Melek Demir</h1>
-<h3 align="center">Computer Engineer | .NET Backend Developer</h3>
+<h1 align="center">Melek DEMİR</h1>
+<h3 align="center">Computer Engineer | .NET Backend Developer 👩🏻‍💻</h3>
 
 
 ---
@@ -9,7 +9,7 @@
 Backend developer focused on building scalable and maintainable systems with .NET technologies.  
 Committed to writing clean, testable code that stands the test of time.
 
-🎯 **Current Focus:** Learning and building .NET Core services, microservices architecture, and Docker-based containerization.
+🎯 **Current Focus:** Currently focused on building .NET Core services, exploring microservices architecture, and containerizing applications with Docker.
 
 > “Clean code is not just written, it’s designed.”
 

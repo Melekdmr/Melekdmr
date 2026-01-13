@@ -3,7 +3,7 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 Backend developer focused on building scalable and maintainable systems with .NET technologies.  
 Committed to writing clean, testable code that stands the test of time.
